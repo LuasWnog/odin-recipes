@@ -1,0 +1,48 @@
+body {
+    background-color: orange;
+}
+
+.box {
+    border: 0px;
+    padding: 50px;
+    background-color: white;
+    width: 400px;
+    margin: 0px;
+}
+
+.link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.images {
+    display: block;
+    height: 100px;
+    width: auto;
+}
+
+.header {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: white;
+    width: 700px;
+}
+
+.smallheader {
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    margin: 0px;
+}
+
+.divider {
+    padding: 12px;
+}
+
+#wrapper {
+    max-width: 500px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
